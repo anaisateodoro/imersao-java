@@ -13,6 +13,9 @@
 
 <p>🧭​ Aula 02 - Gerando figurinhas para WhatsApp
 
+![Captura de ecrã de 2023-03-28 23-27-02](https://user-images.githubusercontent.com/70113922/228413173-86f00eb9-af17-4991-9f9a-9e08a001486d.png)
+
+
 <p>🧭​ Aula 03 -  Ligando as pontas, refatoração e orientação a objetos
 
 <p>🧭​Aula 04 - Criando nossa própria API com Spring
