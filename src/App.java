@@ -11,11 +11,15 @@ public class App {
         //fazer uma conexão HTTP e buscar os top 250 filmes
         // String url = "https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/MostPopularMovies.json"; // usando endereço alternativo
         // ExtratorDeConteudo extrator = new ExtratorDeConteudoDoIMDB();
-      
-      
-        String url = "https://api.nasa.gov/planetary/apod?api_key=O7zKxnW2shXRvSoisSrMCe1JTt3RZi1C5mc8K18b&start_date=2022-06-12&end_date=2022-06-14"; // ApikeyNasa
-        ExtratorDeConteudo extrator = new ExtratorDeConteudoDaNasa();
+        
+        API api = API.IMDB_TOP_SERIES;
+        //API api = API.NASA;
+        String url = api.getUrl();
+        ExtratorDeConteudo extrator = api.getExtrator();
 
+        //String url = "https://api.nasa.gov/planetary/apod?api_key=inserir-sua-key-&start_date=2022-06-12&end_date=2022-06-14"; // ApikeyNasa
+        //ExtratorDeConteudo extrator = new ExtratorDeConteudoDaNasa();
+       
         var http = new ClienteHttp();
         String json = http.buscaDados(url);        
       
