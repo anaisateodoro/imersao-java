@@ -1,13 +1,15 @@
-## 📎 2º edição - [27 a 31/03/2023] 📍 ​Alura
+## 📎 2º edição 📍 Alura - Imersão Java
 
 
-<p align="justify"> <img width="50%" alt="Imersão Java" src="https://www.alura.com.br/assets/img/imersao-java/imersao-logo.1676983691.svg"> </p>
 
-### Divemasters deste mergulho::
+<p align="center"> <img width="60%" alt="Imersão Java 2 edição" src="https://www.alura.com.br/assets/img/imersao-java/imersao-java-share-img-02.1677857598.png"> </p>
+
+
+### Divemasters deste mergulho:
 
 - 👩 Jacqueline Oliveira; 
-- 🧔‍♂️ Alexandre Aquiles;
-- 🧔‍♂️ Paulo Silveira;
+- 🧔 Alexandre Aquiles;
+- 🧔 Paulo Silveira;
 
 <br>
 
@@ -84,3 +86,10 @@ Utilização do framework Spring no projeto
 
 ### ⌛️ Créditos
 Este projeto foi desenvolvido durante a <b>2º Imersão Java 2023</b> disponibilizada pela [Alura](https://www.alura.com.br) .
+
+</p>
+
+<hr>
+<p align="center">
+Desenvolvido com ❤️ por Anaísa Mayara Teodoro
+</p>
