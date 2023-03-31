@@ -1,13 +1,13 @@
 ## 📎 2º edição - [27 a 31/03/2023] 📍 ​Alura
 
 
-<p align="center"> <img width="50%" alt="Imersão Java" src="https://www.alura.com.br/assets/img/imersao-java/imersao-logo.1676983691.svg"> </p>
+<p align="justify"> <img width="50%" alt="Imersão Java" src="https://www.alura.com.br/assets/img/imersao-java/imersao-logo.1676983691.svg"> </p>
 
 ### Divemasters deste mergulho::
 
-- 👩​​ Jacqueline Oliveira; 
-- 🧔‍♂️​ Alexandre Aquiles;
-- 🧔‍♂️​ Paulo Silveira;
+- 👩 Jacqueline Oliveira; 
+- 🧔‍♂️ Alexandre Aquiles;
+- 🧔‍♂️ Paulo Silveira;
 
 <br>
 
@@ -50,6 +50,9 @@ Documentação utilizada para esta aula:
 
 * Criar uma Enum que une, como configurações, a URL da API e o extrator utilizado.
 
+![Captura de ecrã de 2023-03-30 20-44-37](https://user-images.githubusercontent.com/70113922/228993866-2bed07cf-8f63-4034-936d-398757c5fd5c.png)
+
+
 <p>🧭​Aula 04 - Criando nossa própria API com Spring
 
 Utilização do framework Spring no projeto
@@ -65,7 +68,6 @@ Utilização do framework Spring no projeto
 <p>🧭​Aula 05 - Publicando nossa API no Cloud
 
  🔜 Tópicos da aula;
-
 
 ---
 
