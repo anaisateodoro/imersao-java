@@ -28,7 +28,7 @@ public class GeradoraDeFigurinhas {
         //                 .openStream();
 
         // leitura da imagem
-        BufferedImage imagemOriginal = ImageIO.read(new File("entrada/filme.jpg"));
+        BufferedImage imagemOriginal = ImageIO.read(inputStream);
 
         // cria nova imagem em memória com transparência e com tamanho novo
         int largura = imagemOriginal.getWidth();
