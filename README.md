@@ -11,7 +11,6 @@
 - 🧔 Alexandre Aquiles;
 - 🧔 Paulo Silveira;
 
-<br>
 
 ### Cronograma de estudos
 
