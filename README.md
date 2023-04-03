@@ -66,6 +66,8 @@ Utilização do framework Spring no projeto
 
 * Retornar o status 201 quando um recurso (linguagem, no nosso caso) for cadastrado através do POST;
 
+![Captura de ecrã de 2023-04-02 19-14-38](https://user-images.githubusercontent.com/70113922/229396235-86b463de-8f95-48ec-b9f5-f78b7e8239e2.png)
+
 <p>🧭​Aula 05 - Publicando nossa API no Cloud
 
  🔜 Tópicos da aula;
