@@ -73,20 +73,23 @@ Utilização do framework Spring no projeto
 - Configurado o docker no Ubuntu 20.04.6 LTS;
 - Criado um dockerfile e realizado o build de uma imagem Docker;
 - Realizado o deploy no Fly.io;
-- Configurado o MongoDeb e realizado teste do CRUD na aplicação em Cloud com o Postaman;
+- Configurado o MongoDeb e realizado teste do CRUD na aplicação em Cloud com o Postman;
+
+![deploy_final](https://user-images.githubusercontent.com/70113922/229970925-d6cee315-7d1d-44e6-aa63-2364c5e7ee4c.png)
+![teste](https://user-images.githubusercontent.com/70113922/229970935-d0eb5302-9bf5-4ee2-b580-edee69e31002.png)
+![Captura de ecrã de 2023-04-04 23-18-06](https://user-images.githubusercontent.com/70113922/229970934-e527efc6-4ba9-4987-af25-61dc6cf8212d.png)
 
 ---
 
-
 ### 📝 O aprendizado no submergir em Java
 
-<br>
-
-<p>  Neste período da imersão, obtive uma experiência submersa na vastidão de dicas com os divemasters do Java da Alura. 
+<p> Neste período da imersão, obtive uma experiência submersa em dicas com os divemasters do Java da Alura. 
 
 <p>Uma stack amplamentamente usada para codificar aplicações web, o Java é uma linguagem multiplataforma e orientada a objetos. 
 
-<p> Tenho o intuito, com mais este aprendizado, o de ganhar fluência e entender os pressupostos básicos do ecossistema Java, afim de se preparar para os demais desafios que surjam em codificação.
+<p>Ocorreu a dificuldade da etapa de autenticação da distro Linux com o Fly.io,mas consegui ajuda da comunidade do Fly.io, que prontamente respondeu no fórum e consegui finalizar a aula 05.
+
+<p> Tenho o intuito - de com mais este aprendizado - o de ganhar fluência e entender os pressupostos básicos do ecossistema Java. Afim é claro de se preparar para os demais desafios que surgiram em codificação.
 
 ### ⌛️ Créditos
 Este projeto foi desenvolvido durante a <b>2º Imersão Java 2023</b> disponibilizada pela [Alura](https://www.alura.com.br) .
