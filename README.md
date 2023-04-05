@@ -70,7 +70,10 @@ Utilização do framework Spring no projeto
 
 <p>🧭​Aula 05 - Publicando nossa API no Cloud
 
- 🔜 Tópicos da aula;
+- Configurado o docker no Ubuntu 20.04.6 LTS;
+- Criado um dockerfile e realizado o build de uma imagem Docker;
+- Realizado o deploy no Fly.io;
+- Configurado o MongoDeb e realizado teste do CRUD na aplicação em Cloud com o Postaman;
 
 ---
 
